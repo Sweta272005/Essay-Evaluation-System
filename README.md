@@ -117,8 +117,7 @@ http://localhost:8080/EssayProject/index.jsp
 
 ### Home Page
 
-![Uploading image.png…]()
-
+<img width="2396" height="1264" alt="image" src="https://github.com/user-attachments/assets/5ed90e15-39d4-4011-9a66-1d6015344d22" />
 
 ### Result Page
 
