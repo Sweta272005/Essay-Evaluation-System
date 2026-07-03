@@ -117,7 +117,7 @@ http://localhost:8080/EssayProject/index.jsp
 
 ### Home Page
 
-
+![Uploading image.png…]()
 
 
 ### Result Page
